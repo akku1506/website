@@ -1,2 +1,2 @@
 
-For more details, visit <a href="http://akankshapaul.com">http://akankshapaul.com</a>
+For more details, visit <a href="https://akku1506.github.io/website/">https://akku1506.github.io/website/</a>
