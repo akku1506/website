@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   He works at the junction of software engineering and AI research. His research interests focus on making AI more accurate, better understand human intentions, tendencies, and contexts.
   He actively maintains the CloudCV Project which aims to make AI research more reproducible.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://akankshapaul.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://akku1506.github.io/website/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  akku1506
 
 # Build settings
